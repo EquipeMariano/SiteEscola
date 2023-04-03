@@ -5,9 +5,11 @@
 
 .cabecalho {
     background-color: #070128ea;
-    color: #eeca00f5;
+    color: #eeee00f5;
     display: flex;
    justify-content: space-around;
+   align-items: center;
+   padding: 30px 0;
 }
 
 .cabecalho-imagem {
@@ -17,10 +19,34 @@
 .cabecalho-lista-item{
     display: inline-block;
     margin: 0 16px;
-    margin-top: 100px;
-    font-size: 35px;
+    font-size: 25px;
 }
 
+.colegio{
+    background-image: linear-gradient(#070128ea,#3a2998);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0px;
+}
 
+.colegio-div-conteudo{
+    width: 35%;
     
+}
+
+.colegio-titulo{
+    margin-bottom: 20px;
+    padding-right: 0px;
+    width: 350px;
+    font-size: 40px;
+}
+
+p{
+    margin-bottom: 15px;
+    font-size: 20px;
+    width: 350px;
+}
+
 
