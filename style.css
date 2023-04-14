@@ -19,7 +19,7 @@
 .cabecalho-lista-item{
     display: inline-block;
     margin: 0 16px;
-    font-size: 25px;
+    font-size: 30px;
 }
 
 .colegio{
@@ -47,6 +47,10 @@ p{
     margin-bottom: 15px;
     font-size: 20px;
     width: 350px;
+}
+
+.colegio-imagem{
+    width: 450px;
 }
 
 
